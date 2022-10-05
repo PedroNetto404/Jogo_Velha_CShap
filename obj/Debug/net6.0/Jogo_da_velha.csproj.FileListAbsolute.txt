@@ -1,0 +1,30 @@
+C:\Users\desenvolvimento102\Desktop\Jogo_da_velha\bin\Debug\net6.0\Jogo_da_velha.exe
+C:\Users\desenvolvimento102\Desktop\Jogo_da_velha\bin\Debug\net6.0\Jogo_da_velha.deps.json
+C:\Users\desenvolvimento102\Desktop\Jogo_da_velha\bin\Debug\net6.0\Jogo_da_velha.runtimeconfig.json
+C:\Users\desenvolvimento102\Desktop\Jogo_da_velha\bin\Debug\net6.0\Jogo_da_velha.dll
+C:\Users\desenvolvimento102\Desktop\Jogo_da_velha\bin\Debug\net6.0\Jogo_da_velha.pdb
+C:\Users\desenvolvimento102\Desktop\Jogo_da_velha\obj\Debug\net6.0\Jogo_da_velha.csproj.AssemblyReference.cache
+C:\Users\desenvolvimento102\Desktop\Jogo_da_velha\obj\Debug\net6.0\Jogo_da_velha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\desenvolvimento102\Desktop\Jogo_da_velha\obj\Debug\net6.0\Jogo_da_velha.AssemblyInfoInputs.cache
+C:\Users\desenvolvimento102\Desktop\Jogo_da_velha\obj\Debug\net6.0\Jogo_da_velha.AssemblyInfo.cs
+C:\Users\desenvolvimento102\Desktop\Jogo_da_velha\obj\Debug\net6.0\Jogo_da_velha.csproj.CoreCompileInputs.cache
+C:\Users\desenvolvimento102\Desktop\Jogo_da_velha\obj\Debug\net6.0\Jogo_da_velha.dll
+C:\Users\desenvolvimento102\Desktop\Jogo_da_velha\obj\Debug\net6.0\refint\Jogo_da_velha.dll
+C:\Users\desenvolvimento102\Desktop\Jogo_da_velha\obj\Debug\net6.0\Jogo_da_velha.pdb
+C:\Users\desenvolvimento102\Desktop\Jogo_da_velha\obj\Debug\net6.0\Jogo_da_velha.genruntimeconfig.cache
+C:\Users\desenvolvimento102\Desktop\Jogo_da_velha\obj\Debug\net6.0\ref\Jogo_da_velha.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\Jogo_da_velha\bin\Debug\net6.0\Jogo_da_velha.exe
+C:\Users\pedro\OneDrive\Área de Trabalho\Jogo_da_velha\bin\Debug\net6.0\Jogo_da_velha.deps.json
+C:\Users\pedro\OneDrive\Área de Trabalho\Jogo_da_velha\bin\Debug\net6.0\Jogo_da_velha.runtimeconfig.json
+C:\Users\pedro\OneDrive\Área de Trabalho\Jogo_da_velha\bin\Debug\net6.0\Jogo_da_velha.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\Jogo_da_velha\bin\Debug\net6.0\Jogo_da_velha.pdb
+C:\Users\pedro\OneDrive\Área de Trabalho\Jogo_da_velha\obj\Debug\net6.0\Jogo_da_velha.csproj.AssemblyReference.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\Jogo_da_velha\obj\Debug\net6.0\Jogo_da_velha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro\OneDrive\Área de Trabalho\Jogo_da_velha\obj\Debug\net6.0\Jogo_da_velha.AssemblyInfoInputs.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\Jogo_da_velha\obj\Debug\net6.0\Jogo_da_velha.AssemblyInfo.cs
+C:\Users\pedro\OneDrive\Área de Trabalho\Jogo_da_velha\obj\Debug\net6.0\Jogo_da_velha.csproj.CoreCompileInputs.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\Jogo_da_velha\obj\Debug\net6.0\Jogo_da_velha.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\Jogo_da_velha\obj\Debug\net6.0\refint\Jogo_da_velha.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\Jogo_da_velha\obj\Debug\net6.0\Jogo_da_velha.pdb
+C:\Users\pedro\OneDrive\Área de Trabalho\Jogo_da_velha\obj\Debug\net6.0\Jogo_da_velha.genruntimeconfig.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\Jogo_da_velha\obj\Debug\net6.0\ref\Jogo_da_velha.dll
